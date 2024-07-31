@@ -1,0 +1,63 @@
+2024-07-31T16:18:24,413 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:18:24,437 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: model.Dentist@74eb909f
+2024-07-31T16:18:24,449 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:18:24,461 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: model.Dentist@497486b3
+2024-07-31T16:18:24,470 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:18:24,482 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: model.Dentist@4dd02341
+2024-07-31T16:18:24,493 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:18:24,504 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: model.Dentist@25bfcafd
+2024-07-31T16:18:24,514 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de un odontologo
+2024-07-31T16:18:24,533 [main] INFO  dao.impl.DentistDAOH2 [] - Consultamos el odontologo con el ID: 2 es: model.Dentist@55dfebeb
+2024-07-31T16:18:24,541 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la actualizacion de un odontologo...
+2024-07-31T16:18:24,575 [main] WARN  dao.impl.DentistDAOH2 [] - AVISO!! se elimino el odontologo con id: 4
+2024-07-31T16:18:24,583 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de todos los odontologos
+2024-07-31T16:18:24,597 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 1 matricula nro: 132, nombre: GustavoAlejandro
+2024-07-31T16:18:24,597 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 2 matricula nro: 154, nombre: FredCostas
+2024-07-31T16:18:24,597 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 3 matricula nro: 789, nombre: AndreaMansilla
+2024-07-31T16:21:56,494 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:21:56,516 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: Gustavo Alejandro
+2024-07-31T16:21:56,522 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:21:56,535 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: Fred Costas
+2024-07-31T16:21:56,546 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:21:56,558 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: Joao Silva
+2024-07-31T16:21:56,567 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:21:56,579 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: Camila Martinez
+2024-07-31T16:21:56,589 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de un odontologo
+2024-07-31T16:21:56,611 [main] INFO  dao.impl.DentistDAOH2 [] - Consultamos el odontologo con el ID: 2 es: Fred Costas
+2024-07-31T16:21:56,620 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la actualizacion de un odontologo...
+2024-07-31T16:21:56,654 [main] WARN  dao.impl.DentistDAOH2 [] - AVISO!! se elimino el odontologo con id: 4
+2024-07-31T16:21:56,663 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de todos los odontologos
+2024-07-31T16:21:56,676 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 1 matricula nro: 132, nombre: GustavoAlejandro
+2024-07-31T16:21:56,677 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 2 matricula nro: 154, nombre: FredCostas
+2024-07-31T16:21:56,677 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 3 matricula nro: 789, nombre: AndreaMansilla
+2024-07-31T16:23:23,601 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:23:23,623 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: Gustavo Alejandro
+2024-07-31T16:23:23,634 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:23:23,646 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: Fred Costas
+2024-07-31T16:23:23,657 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:23:23,669 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: Joao Silva
+2024-07-31T16:23:23,678 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:23:23,690 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: Camila Martinez
+2024-07-31T16:23:23,699 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de un odontologo
+2024-07-31T16:23:23,717 [main] INFO  dao.impl.DentistDAOH2 [] - Consultamos el odontologo con el ID: 2 es: Fred Costas
+2024-07-31T16:23:23,726 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la actualizacion de un odontologo...
+2024-07-31T16:23:23,746 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de todos los odontologos
+2024-07-31T16:23:23,759 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 1 matricula nro: 132, nombre: Gustavo Alejandro
+2024-07-31T16:23:23,760 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 2 matricula nro: 154, nombre: Fred Costas
+2024-07-31T16:23:23,760 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 3 matricula nro: 789, nombre: Andrea Mansilla
+2024-07-31T16:23:23,760 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 4 matricula nro: 955, nombre: Camila Martinez
+2024-07-31T16:23:23,779 [main] WARN  dao.impl.DentistDAOH2 [] - AVISO!! se elimino el odontologo con id: 4
+2024-07-31T16:23:23,787 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de todos los odontologos
+2024-07-31T16:23:23,798 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 1 matricula nro: 132, nombre: Gustavo Alejandro
+2024-07-31T16:23:23,798 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 2 matricula nro: 154, nombre: Fred Costas
+2024-07-31T16:23:23,798 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 3 matricula nro: 789, nombre: Andrea Mansilla
+2024-07-31T16:40:56,323 [main] INFO  dao.impl.DentistDAOH2 [] - Se inicio una operacion de guardado de odontologo
+2024-07-31T16:40:56,343 [main] INFO  dao.impl.DentistDAOH2 [] - Este es el odontologo que se guardo: Carolina De Elia
+2024-07-31T16:41:54,135 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de un odontologo
+2024-07-31T16:41:54,344 [main] INFO  dao.impl.DentistDAOH2 [] - Consultamos el odontologo con el ID: 1 es: Carolina De Elia
+2024-07-31T16:44:34,176 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la actualizacion de un odontologo...
+2024-07-31T16:44:34,370 [main] ERROR dao.impl.DentistDAOH2 [] - Error: Cannot invoke "java.lang.Integer.intValue()" because the return value of "model.Dentist.getId()" is null
+2024-07-31T16:45:29,017 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la actualizacion de un odontologo...
+2024-07-31T16:46:43,780 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de un odontologo
+2024-07-31T16:48:41,663 [main] INFO  dao.impl.DentistDAOH2 [] - Iniciando la busqueda de todos los odontologos
+2024-07-31T16:48:41,882 [main] INFO  dao.impl.DentistDAOH2 [] - Encontramos los siguientes odontologos con id: 1 matricula nro: 555, nombre: Gabriel Costacurta
